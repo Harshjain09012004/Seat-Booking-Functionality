@@ -1,8 +1,5 @@
-# React + Vite
+# Seat Booking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This app provides the ui of seat booking app with the functionality
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User can select their desired seat from the seat map in the desired category and then they will be shown their corresponding seats after submission
